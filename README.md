@@ -1,4 +1,4 @@
-# <outdated>
+# >>> outdated !
 
 # Welcome to [RedditParserInstagramPoster](https://github.com/bymohamed/RedditParserInstagramPoster)!
 
